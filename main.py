@@ -181,7 +181,7 @@ class GitHubProfileGenerator:
         # Create README content with banner
         readme_content = f"""
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github-banner.gif" alt="Banner" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">
