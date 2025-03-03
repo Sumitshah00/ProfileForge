@@ -62,14 +62,12 @@ The generated profile includes several sections:
 
 Here's a sample of what the generated profile looks like:
 
-```
+
 ![image](https://github.com/user-attachments/assets/03756306-44f3-46ec-93f3-a3cf32ae45a8)
 
 
 ![image](https://github.com/user-attachments/assets/ce95b19e-dee3-4c26-b73c-3de92ca7b1ce)
 
-
-```
 
 ## 🛡️ License
 
